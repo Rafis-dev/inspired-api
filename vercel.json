@@ -17,7 +17,7 @@
     },
     {
       "src": "/img/(.*)",
-      "dest": "index.js"
+      "dest": "img"
     }
   ]
 }
