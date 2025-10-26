@@ -9,5 +9,7 @@
   "type": "module",
   "author": "",
   "license": "ISC",
-  "engines": { "node": "16.x" }
+  "engines": {
+    "node": "18.x"
+  }
 }
